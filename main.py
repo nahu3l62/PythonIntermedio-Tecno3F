@@ -9,7 +9,7 @@ import tkinter as tk
 
 #INTEGRANTES
 #NAHUEL RUIZ - DNI 39.269.851
-#NATALIA RIVAS - 
+#NATALIA RIVAS - DNI 41.474.887
 
 
 def main():
